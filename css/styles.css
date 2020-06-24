@@ -10013,7 +10013,7 @@ font-family: 'Roboto', sans-serif;
   color: #E022E9;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #22E94C !important;
+  color: #099296 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10044,13 +10044,13 @@ font-family: 'Roboto', sans-serif;
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #FFD100;
+    color: #099296;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #00F7FF;
+    color: #099296;
   }
 }
 
