@@ -3916,7 +3916,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #3A70F4;
 }
 
 .nav-fill .nav-item {
@@ -10010,10 +10010,10 @@ font-family: 'Roboto', sans-serif;
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #E022E9;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #22E94C !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10044,13 +10044,13 @@ font-family: 'Roboto', sans-serif;
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #FFD100;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #00F7FF;
   }
 }
 
